@@ -1,0 +1,278 @@
+Nom,Code ISO2,Transit,Valide
+Afrique du Sud,ZA,D,1
+Albanie,AL,D,1
+Alemania,DE,D,1
+Algérie,DZ,D,1
+Allemagne,DE,D,1
+Andorre,AD,D,1
+Angola,AO,D,1
+Anguilla,AI,T,1
+Antarctique,AQ,D,1
+Antigua-et-Barbuda,AG,T,1
+Antilles néerlandaises,AN,D,0
+Arabie saoudite,SA,D,1
+Argentine,AR,D,1
+Arménie,AM,D,1
+Aruba,AW,T,1
+Australie,AU,D,1
+Autriche,AT,D,1
+Azerbaïdjan,AZ,D,1
+Bahamas,BS,D,1
+Bahreïn,BH,D,1
+Bangladesh,BD,D,1
+Barbade,BB,D,1
+Belgique,BE,D,1
+Belize,BZ,D,1
+Bénin,BJ,D,1
+Bermudes,BM,D,1
+Bhoutan,BT,T,1
+Biélorussie,BY,D,1
+Bolivie,BO,D,1
+Bonaire St-Eustache et Saba,BQ,D,1
+Bosnie-Herzégovine,BA,D,1
+Botswana,BW,D,1
+Brésil,BR,D,1
+Brunei Darussalam,BN,T,1
+Bulgarie,BG,D,1
+Burkina Faso,BF,D,1
+Burundi,BI,D,1
+Cambodge,KH,D,1
+Cameroun,CM,D,1
+Canada,CA,D,1
+Cap-Vert,CV,D,1
+Chili,CL,D,1
+Chine,CN,D,1
+Chypre,CY,D,1
+Colombie,CO,D,1
+Comores,KM,D,1
+Congo,CG,D,1
+Congo (RDC),CD,D,1
+Corée du Nord,KP,D,1
+Corée du Sud,KR,D,1
+Costa Rica,CR,D,1
+Côte d'Ivoire,CI,D,1
+Croatie,HR,D,1
+Cuba,CU,D,1
+Curaçao,CW,D,0
+Danemark,DK,D,1
+Deutschland,DE,D,1
+Djibouti,DJ,D,1
+Dominique,DM,T,1
+Ecosse,GB,D,1
+Égypte,EG,D,1
+Eire,IE,D,1
+El Salvador,SV,D,1
+Émirats arabes unis,AE,D,1
+Équateur,EC,D,1
+Érythrée,ER,D,1
+Espagne,ES,D,1
+Estonie,EE,D,1
+Eswatini,SZ,D,1
+États-Unis,US,D,1
+Éthiopie,ET,D,1
+Fidji,FJ,D,1
+Finlande,FI,D,1
+France,FR,D,1
+Gabon,GA,D,1
+Gambie,GM,D,1
+Géorgie,GE,D,1
+Géorgie du Sud + iles sandwich,GS,D,1
+Germania,DE,D,1
+Germany,DE,D,1
+Ghana,GH,D,1
+Gibraltar,GI,T,1
+Grèce,GR,D,1
+Grenade,GD,T,1
+Groenland,GL,T,0
+Guadeloupe,GP,D,1
+Guam,GU,T,0
+Guatemala,GT,D,1
+Guernesey,GG,D,1
+Guinée,GN,D,1
+Guinée équatoriale,GQ,D,1
+Guinée-Bissau,GW,T,1
+Guyana,GY,D,1
+Guyane française,GF,D,1
+Haïti,HT,D,1
+Hollande,NL,D,1
+Honduras,HN,D,1
+Hong Kong,HK,D,1
+Hongrie,HU,D,1
+Ile Aland,AX,T,1
+Île Christmas,CX,T,1
+Île de Man,IM,T,1
+Ile Maurice,MU,D,1
+Île Norfolk,NF,T,1
+Iles Baléares,ES,D,1
+Îles Caïmans,KY,T,1
+Îles Cocos,CC,T,1
+Îles Cook,CK,T,1
+Iles Falkland,FK,T,1
+Îles Féroé,FO,T,1
+Îles Heard-et-MacDonald,HM,T,1
+Îles Malouines,FK,D,1
+Îles Mariannes du Nord,MP,T,1
+Îles Marshall,MH,T,0
+Îles mineures éloignées des États-Unis,UM,D,1
+Îles Salomon,SB,T,1
+Îles Turques-et-Caïques,TC,T,0
+Îles Vierges américaines,VI,D,0
+Îles Vierges britanniques,VG,D,1
+Inde,IN,D,1
+Indonésie,ID,D,1
+Irak,IQ,D,1
+Iran,IR,D,1
+Irlande,IE,D,1
+Irlande du Nord,GB,D,1
+Islande,IS,D,1
+Israël,IL,D,1
+Italie,IT,D,1
+Jamaïque,JM,D,1
+Japon,JP,D,1
+Jersey,JE,D,1
+Jordanie,JO,D,1
+Kazakhstan,KZ,T,1
+Kenya,KE,D,1
+Kirghizistan,KG,T,1
+Kiribati,KI,D,1
+Kosovo,XK,D,0
+Koweït,KW,D,1
+Laos,LA,D,1
+Lausanne,CH,D,1
+Lesotho,LS,D,1
+Lettonie,LV,D,1
+Liban,LB,D,1
+Libéria,LR,D,1
+Libye,LY,D,1
+Liechtenstein,LI,T,1
+Lituanie,LT,D,1
+Luxembourg,LU,D,1
+Macao,MO,D,1
+Macédoine du Nord,MK,D,1
+Madagascar,MG,D,1
+Malaisie,MY,D,1
+Malawi,MW,D,1
+Maldives,MV,T,1
+Mali,ML,D,1
+Malte,MT,D,1
+Maroc,MA,D,1
+Martinique,MQ,D,1
+Maurice,MU,D,1
+Mauritanie,MR,D,1
+Mayotte,YT,D,1
+Mayotte DOM,YT,D,1
+Mexique,MX,D,1
+Micronésie,FM,T,1
+Moldavie,MD,D,1
+Monaco,MC,D,1
+Mongolie,MN,D,1
+Monténégro,ME,D,1
+Montserrat,MS,T,1
+Mozambique,MZ,D,1
+Myanmar,MM,D,1
+Namibie,NA,D,1
+Nauru,NR,D,1
+Népal,NP,D,1
+Nétherland,NL,D,1
+Nicaragua,NI,D,1
+Niger,NE,D,1
+Nigeria,NG,D,1
+Niue,NU,T,1
+Norvège,NO,D,1
+Nouvelle-Calédonie,NC,D,1
+Nouvelle-Zélande,NZ,D,1
+Oman,OM,D,1
+Osterreich,AT,D,1
+Ouganda,UG,D,1
+Ouzbékistan,UZ,D,1
+Pakistan,PK,D,1
+Palau / Palaos,PW,D,1
+Palestine,PS,D,1
+Panama,PA,D,1
+Papouasie-Nouvelle-Guinée,PG,T,1
+Paraguay,PY,D,1
+Pays de Galles,GB,D,1
+Pays-Bas,NL,D,1
+Pérou,PE,D,1
+Philippines,PH,D,1
+Pitcairn,PN,D,1
+Pologne,PL,D,1
+Polynésie française,PF,D,1
+Porto Rico,PR,T,0
+Portugal,PT,D,1
+Qatar,QA,D,1
+République centrafricaine,CF,D,1
+République dominicaine,DO,D,1
+République helvétique,CH,D,1
+République Tchéque,CZ,D,1
+Réunion,RE,D,1
+Roumanie,RO,D,1
+Royaume-Uni,GB,D,1
+Russie,RU,D,1
+Rwanda,RW,D,1
+Sahara occidental,EH,D,1
+Saint Marteen,SX,T,0
+Saint-Barthélemy,BL,D,0
+Saint-Kitts-et-Nevis,KN,T,1
+Saint-Marin,SM,T,1
+Saint-Martin,MF,D,0
+Saint-Martin (partie néerlandaise),SX,D,1
+Saint-Pierre-et-Miquelon,PM,D,1
+Saint-Siège,VA,D,1
+Saint-Vincent-et-les-Grenadines,VC,T,1
+Sainte-Hélène,SH,T,1
+Sainte-Lucie,LC,T,1
+Salvador,SV,D,1
+Samoa,WS,T,1
+Samoa américaines,AS,T,0
+Sao Tomé-et-Principe,ST,T,1
+Sardaigne,IT,D,1
+Sénégal,SN,D,1
+Serbie,RS,D,1
+Seychelles,SC,D,1
+Sicile,IT,D,1
+Sierra Leone,SL,D,1
+Singapour,SG,D,1
+Slovaquie,SK,D,1
+Slovénie,SI,D,1
+Somalie,SO,D,1
+Soudan,SD,D,1
+Soudan du Sud,SS,D,0
+Sri Lanka,LK,D,1
+Suède,SE,D,1
+Suisse,CH,D,1
+Suriname,SR,D,1
+Svalbard et Jan Mayen,SJ,D,1
+Sverige,SE,D,1
+Swaziland,SZ,D,1
+Sweden,SE,D,1
+Switzerland,CH,D,1
+Syrie,SY,D,1
+Tadjikistan,TJ,T,1
+Taïwan,TW,D,1
+Tanzanie,TZ,D,1
+Tchad,TD,D,1
+Tchéquie,CZ,D,1
+Terres australes françaises,TF,D,1
+Territoire britannique de l'océan Indien,IO,D,1
+Thaïlande,TH,D,1
+Timor Lest oriental,TL,D,0
+Togo,TG,D,1
+Tokelau,TK,T,1
+Tonga,TO,T,1
+Trinité-et-Tobago,TT,D,1
+Tunisie,TN,D,1
+Turkménistan,TM,T,1
+Turquie,TR,D,1
+Tuvalu,TV,T,1
+Ukraine,UA,D,1
+United KingDom,GB,D,1
+Uruguay,UY,D,1
+Vanuatu,VU,D,1
+Vatican,VA,D,1
+Venezuela,VE,D,1
+Vietnam,VN,D,1
+Wallis-et-Futuna,WF,D,1
+Yémen,YE,D,1
+Zambie,ZM,D,1
+Zimbabwe,ZW,D,1
