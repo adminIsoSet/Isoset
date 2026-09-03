@@ -1,4 +1,7 @@
 Nom,Code ISO2,Transit,Valide
+,,D,1
+,,D,1
+Sverige,,D,1
 Afghanistan,AF,D,1
 Afrique du Sud,ZA,D,1
 Albanie,AL,D,1
@@ -198,12 +201,14 @@ Pérou,PE,D,1
 Philippines,PH,D,1
 Pitcairn,PN,D,1
 Pologne,PL,D,1
+Polska,PL,D,1
 Polynésie française,PF,D,1
 Porto Rico,PR,T,0
 Portugal,PT,D,1
 Qatar,QA,D,1
 République centrafricaine,CF,D,1
 République dominicaine,DO,D,1
+République hellénique,GR,D,1
 République helvétique,CH,D,1
 République Tchéque,CZ,D,1
 Réunion,RE,D,1
